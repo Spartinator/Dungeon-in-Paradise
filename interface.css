@@ -1,1 +1,18 @@
 
+.blackBackground {
+  background-color:black;
+}
+.redBackground {
+  background-color:red;
+}
+#startButton {
+  color:black;
+  font-weight:bold;
+  font-size:30px;
+  font-family:Geneva;
+  height:400px;
+  width:400px;
+  background-color:#696969;
+  border:black 3px solid;
+  border-radius:10px;
+}
