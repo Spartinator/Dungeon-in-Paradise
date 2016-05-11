@@ -4,9 +4,11 @@
 
 .blackBackground {
   background-color:black;
+  margin-top:100%;
 }
 .redBackground {
   background-color:red;
+  margin-top:100%;
 }
 #startButton {
   color:black;
