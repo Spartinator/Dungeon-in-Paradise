@@ -1,5 +1,5 @@
-# Dungeon-in-Paradise
+# DungeonInParadise
 First attempt at a story based, questing game!
 
-Game Link: http://spartinator.github.io/Dungeon-in-Paradise/
+Game Link: http://spartinator.github.io/DungeonInParadise/
 
